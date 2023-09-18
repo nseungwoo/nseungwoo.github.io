@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nseungwoo.github.io/nseungwoo//sitemap.xml
+Sitemap: https://nseungwoo.github.io/sitemap.xml

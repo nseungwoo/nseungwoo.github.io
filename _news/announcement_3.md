@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting my intership in <a href="https://about.meta.com/realitylabs/">Meta Reality Labs</a>!
+Starting my internship at <a href="https://about.meta.com/realitylabs/">Meta Reality Labs</a>!

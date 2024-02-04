@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to SIGGRAPH Asia 2023.
+One paper accepted to <a href="https://doi.org/10.1145/3618395">SIGGRAPH Asia 2023</a>.

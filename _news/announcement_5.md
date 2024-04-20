@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to <a href="https://doi.org/10.1364/OE.516564">Optics Expresss</a>.
+One paper accepted to <a href="https://doi.org/10.1364/OE.516564">Optics Express</a>.

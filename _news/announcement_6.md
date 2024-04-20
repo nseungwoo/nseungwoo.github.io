@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted to <a href="https://s2024.siggraph.org/">SIGGRAPH 2024!</a>.
+Two papers accepted to <a href="https://s2024.siggraph.org/">SIGGRAPH 2024!</a>

@@ -19,4 +19,4 @@ I am a PhD student at [Optical Engineering and Quantam Electronics Lab](http://o
 I was formerly supervised by the late Prof. [Byoungho Lee](http://oeqelab.snu.ac.kr/PROF) and currently supervised by Prof. [Yoonchan Jeong](https://laser.snu.ac.kr/members/professor). 
 Prior to this, I received my BS degree in [Electrical and Computer Engineering from Seoul National University](http://ee.snu.ac.kr/en).
 
-My research area includes holography, AR/VR, computational displays, and visual perception.
+My research area includes holography, AR/VR, computational displays, visual perception, and metasurfaces.

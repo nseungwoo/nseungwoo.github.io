@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've joined <a href="https://stanford.edu/~gordonwz/">Prof. Gordon Wetzstein</a>'s lab as a Postdoctoral Researcher.
+I've joined <a href="https://stanford.edu/~gordonwz/">Prof. Gordon Wetzstein</a>'s group as a Postdoctoral Researcher.
